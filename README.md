@@ -26,10 +26,9 @@ a final-year ICS student at Strathmore University with a passion for building in
 ---
  
 ## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=said139E&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=said139&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=said139&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
  
