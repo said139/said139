@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn%22 />
 </p>
  
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Said] 👋
  
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+a final-year ICS student at Strathmore University with a passion for building intelligent systems that solve real-world problems — especially at the intersection of data, infrastructure, and impact. I'm drawn to problems where clean engineering meets messy reality: turning raw, noisy data into decisions that actually matter. Whether it's designing distributed systems or training models from scratch, I care deeply about work that scales and works in the field.
  
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+- 🔭 **Current Focus:** I'm currently building two projects I'm genuinely excited about. The first is a Shift Handover Management System — designed to streamline how teams communicate critical information across shift changes, reducing errors and improving operational continuity. The second is a pro bono therapy booking app aimed at making mental health support more accessible for young people, connecting youth with volunteer therapists through a simple, low-friction booking experience. Both projects sit at that sweet spot where thoughtful software design meets real human need.
+- 🌱 **Learning & Exploration:** Deepening my understanding of distributed systems (inter-process communication, socket programming, TCP/UDP), scalable ML with TensorFlow/Keras, and cloud infrastructure — with a particular interest in how hyperscalers like AWS and Azure are expanding their footprint across East Africa.
+- ⚡ **Core Interests:** Cloud Computing · Cybersecurity · AI & Machine Learning
  
 ---
  
@@ -43,7 +43,7 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 ## Connect With Me
  
 - 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+- 📧 **Direct Contact:** [saidmarika6@gmail.com]
  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer%22 />
